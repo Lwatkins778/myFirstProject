@@ -1,1 +1,2 @@
 The mitochondria is the powerhouse of the cell!
+The electron transport chain sets up an electrochemical gradient across the IMM.
